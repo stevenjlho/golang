@@ -8,5 +8,3 @@ golang:
   validate_certs: yes
   # If specified GO path and directories will be setup for this user and group
   workspace_user: ~
-
-  
